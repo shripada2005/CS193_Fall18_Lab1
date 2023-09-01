@@ -15,8 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- no final exam
+- no midterms
+- not taught by professors.
 
 1. Numbered
 2. List
